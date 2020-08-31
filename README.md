@@ -1,5 +1,5 @@
 
-# Project
+# Micro-reddit
 
 > This is micro-reddit build to practice all the features of active record of Ruby on Rails
 
